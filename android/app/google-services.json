@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "257419506863",
+    "project_id": "trackizer-30ecc",
+    "storage_bucket": "trackizer-30ecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257419506863:android:db678f187b735e8ee6505a",
+        "android_client_info": {
+          "package_name": "com.example.trackizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257419506863-gaa12d3ug1q93o5aa0fegelh8ecc80pd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trackizer",
+            "certificate_hash": "c13bbeaa1ec5bcc1a16bb0edf3ad69369e4cf73c"
+          }
+        },
+        {
+          "client_id": "257419506863-qjn2snnbu2v4eapn54jbm9lrkbeb9an2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trackizer",
+            "certificate_hash": "42c062a698d3b68cbe3754b70a6ad47cf32a2a34"
+          }
+        },
+        {
+          "client_id": "257419506863-tbp7rav552kp7itqsrna8dh632a9l89q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbzzv4yNswvFYsdEnHy8_zW5C5uveLyxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257419506863-tbp7rav552kp7itqsrna8dh632a9l89q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "257419506863-r3v2gfl6j46hqoct9gdcaf8uun7fgsid.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.trackizer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
