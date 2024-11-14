@@ -202,7 +202,7 @@ class _CalenderState extends State<Calender> {
                   }
                   if (!snapshot.hasData || snapshot.data!.docs.isEmpty) {
                     return const Center(
-                        child: Text("No subscriptions found for this date."));
+                        child: Text("No subscriptions found for this date. "));
                   }
 
                   var subscriptions = snapshot.data!.docs;
