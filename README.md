@@ -32,4 +32,3 @@ flutter run
 ## 📢 Contact
 - **GitHub:** [choudharyuzair2126](https://github.com/choudharyuzair2126)
 - **Email:** [uzair2126@proton.me]
-- 
